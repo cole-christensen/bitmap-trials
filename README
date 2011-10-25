@@ -1,1 +1,4 @@
-test.c segfaults regularly for some reason which is not interesting enough to debug. test2.c is a rewrite/copy which manages to work... to an extent.
+This is a personal experiment towards graphics programming pixel-by-pixel in a completely generic form.
+
+test.c segfaults regularly for some reason which is not interesting enough to debug. 
+test2.c is a rewrite/copy which manages to work... to an extent.
